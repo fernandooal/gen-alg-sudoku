@@ -1,0 +1,361 @@
+instancia,metodo,params,semente,conflitos,aval_solucao,aval_usadas
+facil,Sorteio aleatório,{},0,16,,200000
+facil,Sorteio aleatório,{},1,17,,200000
+facil,Sorteio aleatório,{},2,18,,200000
+facil,Sorteio aleatório,{},3,18,,200000
+facil,Sorteio aleatório,{},4,18,,200000
+facil,Sorteio aleatório,{},5,18,,200000
+facil,Sorteio aleatório,{},6,18,,200000
+facil,Sorteio aleatório,{},7,13,,200000
+facil,Sorteio aleatório,{},8,18,,200000
+facil,Sorteio aleatório,{},9,19,,200000
+facil,Sorteio aleatório,{},10,20,,200000
+facil,Sorteio aleatório,{},11,17,,200000
+facil,Sorteio aleatório,{},12,18,,200000
+facil,Sorteio aleatório,{},13,16,,200000
+facil,Sorteio aleatório,{},14,18,,200000
+facil,Sorteio aleatório,{},15,18,,200000
+facil,Sorteio aleatório,{},16,17,,200000
+facil,Sorteio aleatório,{},17,19,,200000
+facil,Sorteio aleatório,{},18,19,,200000
+facil,Sorteio aleatório,{},19,19,,200000
+facil,Sorteio aleatório,{},20,18,,200000
+facil,Sorteio aleatório,{},21,17,,200000
+facil,Sorteio aleatório,{},22,19,,200000
+facil,Sorteio aleatório,{},23,19,,200000
+facil,Sorteio aleatório,{},24,19,,200000
+facil,Sorteio aleatório,{},25,17,,200000
+facil,Sorteio aleatório,{},26,18,,200000
+facil,Sorteio aleatório,{},27,19,,200000
+facil,Sorteio aleatório,{},28,17,,200000
+facil,Sorteio aleatório,{},29,19,,200000
+facil,HC + reinício,{},0,2,,200000
+facil,HC + reinício,{},1,0,186485,186485
+facil,HC + reinício,{},2,2,,200000
+facil,HC + reinício,{},3,0,86890,86890
+facil,HC + reinício,{},4,0,145867,145867
+facil,HC + reinício,{},5,2,,200000
+facil,HC + reinício,{},6,2,,200000
+facil,HC + reinício,{},7,2,,200000
+facil,HC + reinício,{},8,2,,200000
+facil,HC + reinício,{},9,0,53161,53161
+facil,HC + reinício,{},10,2,,200000
+facil,HC + reinício,{},11,2,,200000
+facil,HC + reinício,{},12,0,33310,33310
+facil,HC + reinício,{},13,2,,200000
+facil,HC + reinício,{},14,0,14785,14785
+facil,HC + reinício,{},15,2,,200000
+facil,HC + reinício,{},16,2,,200000
+facil,HC + reinício,{},17,2,,200000
+facil,HC + reinício,{},18,2,,200000
+facil,HC + reinício,{},19,2,,200000
+facil,HC + reinício,{},20,2,,200000
+facil,HC + reinício,{},21,0,26914,26914
+facil,HC + reinício,{},22,2,,200000
+facil,HC + reinício,{},23,0,73347,73347
+facil,HC + reinício,{},24,0,29572,29572
+facil,HC + reinício,{},25,2,,200000
+facil,HC + reinício,{},26,2,,200000
+facil,HC + reinício,{},27,0,195870,195870
+facil,HC + reinício,{},28,2,,200000
+facil,HC + reinício,{},29,0,91873,91873
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",0,0,362,362
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",1,0,528,528
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",2,0,303,303
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",3,0,203,203
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",4,0,1633,1633
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",5,0,344,344
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",6,0,159,159
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",7,0,367,367
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",8,0,100,100
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",9,0,227,227
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",10,0,211,211
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",11,0,202,202
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",12,0,1365,1365
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",13,0,544,544
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",14,0,986,986
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",15,0,203,203
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",16,0,162,162
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",17,0,670,670
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",18,0,143,143
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",19,0,624,624
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",20,0,1369,1369
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",21,0,621,621
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",22,0,165,165
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",23,0,429,429
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",24,0,795,795
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",25,0,834,834
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",26,0,765,765
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",27,0,529,529
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",28,0,223,223
+facil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",29,0,218,218
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",0,0,29039,29039
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",1,0,15347,15347
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",2,0,4852,4852
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",3,0,9689,9689
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",4,0,17050,17050
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",5,0,5268,5268
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",6,0,2244,2244
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",7,0,14913,14913
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",8,0,2479,2479
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",9,0,3190,3190
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",10,0,15687,15687
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",11,0,3973,3973
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",12,0,17862,17862
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",13,0,3184,3184
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",14,0,2999,2999
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",15,0,15665,15665
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",16,0,16475,16475
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",17,0,28973,28973
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",18,0,3475,3475
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",19,0,8460,8460
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",20,0,2977,2977
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",21,0,29616,29616
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",22,0,3863,3863
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",23,0,2808,2808
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",24,0,3202,3202
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",25,0,3629,3629
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",26,0,10161,10161
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",27,0,3029,3029
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",28,0,2983,2983
+facil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",29,0,2949,2949
+medio,Sorteio aleatório,{},0,22,,200000
+medio,Sorteio aleatório,{},1,24,,200000
+medio,Sorteio aleatório,{},2,22,,200000
+medio,Sorteio aleatório,{},3,23,,200000
+medio,Sorteio aleatório,{},4,21,,200000
+medio,Sorteio aleatório,{},5,25,,200000
+medio,Sorteio aleatório,{},6,23,,200000
+medio,Sorteio aleatório,{},7,25,,200000
+medio,Sorteio aleatório,{},8,23,,200000
+medio,Sorteio aleatório,{},9,24,,200000
+medio,Sorteio aleatório,{},10,23,,200000
+medio,Sorteio aleatório,{},11,25,,200000
+medio,Sorteio aleatório,{},12,25,,200000
+medio,Sorteio aleatório,{},13,24,,200000
+medio,Sorteio aleatório,{},14,25,,200000
+medio,Sorteio aleatório,{},15,24,,200000
+medio,Sorteio aleatório,{},16,24,,200000
+medio,Sorteio aleatório,{},17,22,,200000
+medio,Sorteio aleatório,{},18,22,,200000
+medio,Sorteio aleatório,{},19,24,,200000
+medio,Sorteio aleatório,{},20,24,,200000
+medio,Sorteio aleatório,{},21,22,,200000
+medio,Sorteio aleatório,{},22,25,,200000
+medio,Sorteio aleatório,{},23,23,,200000
+medio,Sorteio aleatório,{},24,22,,200000
+medio,Sorteio aleatório,{},25,23,,200000
+medio,Sorteio aleatório,{},26,24,,200000
+medio,Sorteio aleatório,{},27,24,,200000
+medio,Sorteio aleatório,{},28,25,,200000
+medio,Sorteio aleatório,{},29,25,,200000
+medio,HC + reinício,{},0,6,,200000
+medio,HC + reinício,{},1,6,,200000
+medio,HC + reinício,{},2,6,,200000
+medio,HC + reinício,{},3,6,,200000
+medio,HC + reinício,{},4,6,,200000
+medio,HC + reinício,{},5,6,,200000
+medio,HC + reinício,{},6,4,,200000
+medio,HC + reinício,{},7,4,,200000
+medio,HC + reinício,{},8,8,,200000
+medio,HC + reinício,{},9,5,,200000
+medio,HC + reinício,{},10,2,,200000
+medio,HC + reinício,{},11,4,,200000
+medio,HC + reinício,{},12,4,,200000
+medio,HC + reinício,{},13,7,,200000
+medio,HC + reinício,{},14,5,,200000
+medio,HC + reinício,{},15,6,,200000
+medio,HC + reinício,{},16,5,,200000
+medio,HC + reinício,{},17,6,,200000
+medio,HC + reinício,{},18,5,,200000
+medio,HC + reinício,{},19,6,,200000
+medio,HC + reinício,{},20,0,2357,2357
+medio,HC + reinício,{},21,6,,200000
+medio,HC + reinício,{},22,4,,200000
+medio,HC + reinício,{},23,6,,200000
+medio,HC + reinício,{},24,4,,200000
+medio,HC + reinício,{},25,6,,200000
+medio,HC + reinício,{},26,6,,200000
+medio,HC + reinício,{},27,7,,200000
+medio,HC + reinício,{},28,6,,200000
+medio,HC + reinício,{},29,6,,200000
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",0,0,350,350
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",1,0,633,633
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",2,0,12699,12699
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",3,0,415,415
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",4,2,,200000
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",5,0,1390,1390
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",6,0,1202,1202
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",7,0,2530,2530
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",8,0,520,520
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",9,0,799,799
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",10,2,,200000
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",11,0,518,518
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",12,0,306,306
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",13,0,7360,7360
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",14,0,7394,7394
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",15,0,1665,1665
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",16,0,2233,2233
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",17,0,641,641
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",18,0,220,220
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",19,0,871,871
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",20,0,1092,1092
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",21,0,41842,41842
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",22,0,1171,1171
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",23,0,914,914
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",24,0,6616,6616
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",25,2,,200000
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",26,0,679,679
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",27,0,349,349
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",28,0,26804,26804
+medio,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",29,0,1249,1249
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",0,0,22421,22421
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",1,0,6774,6774
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",2,0,113577,113577
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",3,0,7489,7489
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",4,0,44270,44270
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",5,0,24848,24848
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",6,0,110382,110382
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",7,0,181898,181898
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",8,0,48038,48038
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",9,0,7496,7496
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",10,0,23775,23775
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",11,0,5971,5971
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",12,0,41054,41054
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",13,0,9806,9806
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",14,0,23444,23444
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",15,0,38248,38248
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",16,0,40852,40852
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",17,0,36106,36106
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",18,0,30662,30662
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",19,0,154893,154893
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",20,0,14253,14253
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",21,0,5175,5175
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",22,0,26435,26435
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",23,0,198847,198847
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",24,0,31683,31683
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",25,0,37437,37437
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",26,0,5945,5945
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",27,0,44311,44311
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",28,0,107207,107207
+medio,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",29,0,9741,9741
+dificil,Sorteio aleatório,{},0,26,,200000
+dificil,Sorteio aleatório,{},1,25,,200000
+dificil,Sorteio aleatório,{},2,26,,200000
+dificil,Sorteio aleatório,{},3,26,,200000
+dificil,Sorteio aleatório,{},4,25,,200000
+dificil,Sorteio aleatório,{},5,24,,200000
+dificil,Sorteio aleatório,{},6,20,,200000
+dificil,Sorteio aleatório,{},7,26,,200000
+dificil,Sorteio aleatório,{},8,25,,200000
+dificil,Sorteio aleatório,{},9,24,,200000
+dificil,Sorteio aleatório,{},10,25,,200000
+dificil,Sorteio aleatório,{},11,26,,200000
+dificil,Sorteio aleatório,{},12,26,,200000
+dificil,Sorteio aleatório,{},13,24,,200000
+dificil,Sorteio aleatório,{},14,22,,200000
+dificil,Sorteio aleatório,{},15,25,,200000
+dificil,Sorteio aleatório,{},16,25,,200000
+dificil,Sorteio aleatório,{},17,25,,200000
+dificil,Sorteio aleatório,{},18,26,,200000
+dificil,Sorteio aleatório,{},19,23,,200000
+dificil,Sorteio aleatório,{},20,25,,200000
+dificil,Sorteio aleatório,{},21,27,,200000
+dificil,Sorteio aleatório,{},22,24,,200000
+dificil,Sorteio aleatório,{},23,26,,200000
+dificil,Sorteio aleatório,{},24,26,,200000
+dificil,Sorteio aleatório,{},25,25,,200000
+dificil,Sorteio aleatório,{},26,25,,200000
+dificil,Sorteio aleatório,{},27,26,,200000
+dificil,Sorteio aleatório,{},28,26,,200000
+dificil,Sorteio aleatório,{},29,24,,200000
+dificil,HC + reinício,{},0,8,,200000
+dificil,HC + reinício,{},1,6,,200000
+dificil,HC + reinício,{},2,7,,200000
+dificil,HC + reinício,{},3,6,,200000
+dificil,HC + reinício,{},4,8,,200000
+dificil,HC + reinício,{},5,6,,200000
+dificil,HC + reinício,{},6,5,,200000
+dificil,HC + reinício,{},7,6,,200000
+dificil,HC + reinício,{},8,7,,200000
+dificil,HC + reinício,{},9,6,,200000
+dificil,HC + reinício,{},10,4,,200000
+dificil,HC + reinício,{},11,6,,200000
+dificil,HC + reinício,{},12,8,,200000
+dificil,HC + reinício,{},13,4,,200000
+dificil,HC + reinício,{},14,6,,200000
+dificil,HC + reinício,{},15,7,,200000
+dificil,HC + reinício,{},16,4,,200000
+dificil,HC + reinício,{},17,2,,200000
+dificil,HC + reinício,{},18,6,,200000
+dificil,HC + reinício,{},19,8,,200000
+dificil,HC + reinício,{},20,8,,200000
+dificil,HC + reinício,{},21,6,,200000
+dificil,HC + reinício,{},22,6,,200000
+dificil,HC + reinício,{},23,7,,200000
+dificil,HC + reinício,{},24,4,,200000
+dificil,HC + reinício,{},25,6,,200000
+dificil,HC + reinício,{},26,8,,200000
+dificil,HC + reinício,{},27,8,,200000
+dificil,HC + reinício,{},28,6,,200000
+dificil,HC + reinício,{},29,8,,200000
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",0,0,13382,13382
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",1,0,1794,1794
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",2,0,736,736
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",3,0,12745,12745
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",4,2,,200000
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",5,0,14348,14348
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",6,0,14007,14007
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",7,0,22702,22702
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",8,0,5450,5450
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",9,0,12899,12899
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",10,0,6603,6603
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",11,0,5321,5321
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",12,0,1124,1124
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",13,0,4412,4412
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",14,0,8846,8846
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",15,0,13853,13853
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",16,0,5736,5736
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",17,0,8864,8864
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",18,0,8214,8214
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",19,0,25909,25909
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",20,0,17082,17082
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",21,0,17339,17339
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",22,0,1440,1440
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",23,0,39316,39316
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",24,0,3897,3897
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",25,0,1922,1922
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",26,0,13144,13144
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",27,0,26738,26738
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",28,0,15504,15504
+dificil,Simulated Annealing,"{'T0': 0.5, 'alfa': 0.99999}",29,0,12056,12056
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",0,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",1,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",2,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",3,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",4,0,68432,68432
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",5,0,27149,27149
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",6,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",7,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",8,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",9,0,65292,65292
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",10,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",11,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",12,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",13,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",14,0,186464,186464
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",15,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",16,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",17,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",18,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",19,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",20,0,196303,196303
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",21,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",22,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",23,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",24,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",25,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",26,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",27,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",28,2,,200000
+dificil,Algoritmo Genético,"{'tam_pop': 200, 'taxa_mut': 0.8}",29,2,,200000
